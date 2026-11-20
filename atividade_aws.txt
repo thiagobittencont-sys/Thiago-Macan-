@@ -1,0 +1,1 @@
+Arquivo criado na AWS EC2 para atividade de GitHub.
